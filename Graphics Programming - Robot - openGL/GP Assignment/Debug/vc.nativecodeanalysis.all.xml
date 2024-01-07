@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\GP Assignment\GP Assignment\</FILEPATH>
+      <FILENAME>Combined3.0.cpp</FILENAME>
+      <LINE>692</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>drawSphereWithoutGLU</FUNCTION>
+    <DECORATED>?drawSphereWithoutGLU@@YAXXZ</DECORATED>
+    <FUNCLINE>677</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\GP Assignment\GP Assignment\</FILEPATH>
+      <FILENAME>Combined3.0.cpp</FILENAME>
+      <LINE>693</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>drawSphereWithoutGLU</FUNCTION>
+    <DECORATED>?drawSphereWithoutGLU@@YAXXZ</DECORATED>
+    <FUNCLINE>677</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\GP Assignment\GP Assignment\</FILEPATH>
+      <FILENAME>Combined3.0.cpp</FILENAME>
+      <LINE>694</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>drawSphereWithoutGLU</FUNCTION>
+    <DECORATED>?drawSphereWithoutGLU@@YAXXZ</DECORATED>
+    <FUNCLINE>677</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\GP Assignment\GP Assignment\</FILEPATH>
+      <FILENAME>Combined3.0.cpp</FILENAME>
+      <LINE>2703</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inconsistent annotation for 'WinMain': this instance has no annotations. See c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winbase.h(933). </DESCRIPTION>
+    <FUNCTION>WinMain</FUNCTION>
+    <DECORATED>WinMain@16</DECORATED>
+    <FUNCLINE>2703</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
